@@ -1,0 +1,10 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\Tabuada\obj\Debug\Tabuada.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\Tabuada\obj\Debug\Tabuada.Form1.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\Tabuada\obj\Debug\Tabuada.Properties.Resources.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\Tabuada\obj\Debug\Tabuada.pdb
